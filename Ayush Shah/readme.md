@@ -1,3 +1,0 @@
-I was assigned the teams page..I tried to create the navbar elements earlier but weren't properly aligned...so that part is yet to be done...
-Also I've react-tabs packages in node_modules but I haven't imported them here...So before running please run 
-   npm install react-tabs
