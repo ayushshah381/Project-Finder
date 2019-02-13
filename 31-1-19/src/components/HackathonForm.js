@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Hackmultiform from './Hackmultiform';
 
 class HackathonForm extends Component {
     render() {
@@ -56,10 +57,7 @@ class HackathonForm extends Component {
                             </select>
                             <br />
                             <br />
-                            <select id="skills">
-                                <option></option>
-                            </select>
-                            
+                            <Hackmultiform />
                         </div>    
                     </div>
                 
